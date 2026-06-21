@@ -10,9 +10,9 @@ The official download is available through GIANTS ModHub once published.
 
 ## What This Mod Does
 
-Adds a placeable loading point for slurry extension storages. It is meant for farms where slurry or digestate storage exists, but no separate loading point is available for vehicles or AI helpers.
+Adds a compact placeable loading point for slurry extension storages.
 
-The loading point supports the basegame `SLURRYTANK` fill type category, so compatible slurry-category fill types from maps or other mods can be handled through the same placeable.
+Passive silo extensions can store liquid manure, digestate and other fill types in the `SLURRYTANK` category, but they do not always provide a loading point of their own. This mod adds that missing loading point for vehicles and AI helpers, drawing from nearby slurry extensions without adding storage capacity of its own.
 
 ## Reporting Issues
 
