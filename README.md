@@ -47,3 +47,12 @@ Please open an issue and include:
 ## Notes
 
 No GIANTS Software basegame assets or generated mod package files are distributed in this repository. This repository is only for support and documentation.
+
+## Changelog
+
+### Version 1.0.0.0
+
+- Initial ModHub submission.
+- Added a slurry extension loading point placeable.
+- Supports slurry tank category fill types such as liquid manure and digestate.
+- Includes a visible pipe discharge effect while filling.
