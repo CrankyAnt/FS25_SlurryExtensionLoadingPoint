@@ -29,18 +29,20 @@ body:
       placeholder: "Example: Riverbend Springs"
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: mods
     attributes:
       label: Relevant active mods
-      description: List mod names only. Please do not upload mod files.
+      description: List mod names that may interact with slurry, digestate, placeables, animals, storage, or AI helpers. Please do not upload mod files.
       placeholder: "Example: Animal barn mods, slurry/digestate mods, AI helper mods"
-  - type: input
+      render: text
+  - type: textarea
     id: description
     attributes:
       label: What happened?
-      description: Briefly describe the issue and what you expected. Please do not upload files here.
+      description: Describe the issue and what you expected to happen. Please do not upload files here.
       placeholder: "Example: Vehicle stops filling when aligned under the pipe"
+      render: text
     validations:
       required: true
   - type: textarea
@@ -48,4 +50,3 @@ body:
     attributes:
       label: Log excerpt or full log file
       description: Paste relevant log lines, or drag and drop the complete log file here.
-      render: text
