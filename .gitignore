@@ -1,0 +1,24 @@
+﻿# Keep this repository documentation-only.
+# Do not commit the actual mod package or game-derived assets.
+
+*.zip
+*.i3d
+*.i3d.shapes
+*.shapes
+*.dds
+*.gdm
+*.grle
+*.cache
+*.log
+
+# Farming Simulator local/generated folders
+mods/
+modsTest/
+savegame*/
+shader_cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

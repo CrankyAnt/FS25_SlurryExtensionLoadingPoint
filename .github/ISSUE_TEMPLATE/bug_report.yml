@@ -1,0 +1,48 @@
+﻿name: Bug report
+about: Report a problem with Slurry Extension Loading Point
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: input
+    id: game-version
+    attributes:
+      label: Game version
+      placeholder: "Example: 1.13.0.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - PC
+        - Mac
+        - PlayStation
+        - Xbox
+    validations:
+      required: true
+  - type: input
+    id: map
+    attributes:
+      label: Map
+      placeholder: "Example: Riverbend Springs"
+    validations:
+      required: true
+  - type: textarea
+    id: mods
+    attributes:
+      label: Relevant active mods
+      description: List mods that may interact with slurry, digestate, placeables, animals, storage, or AI helpers.
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the issue and what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Log excerpt
+      description: Paste relevant log lines if available.
+      render: text
