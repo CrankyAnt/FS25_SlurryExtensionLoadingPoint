@@ -1,4 +1,4 @@
-﻿# FS25 Slurry Extension Loading Point
+# FS25 Slurry Extension Loading Point
 
 Support and issue tracker for the Farming Simulator 25 mod **Slurry Extension Loading Point** by CrankyAnt.
 
@@ -15,6 +15,10 @@ Adds a placeable loading point for slurry extension storages. It is meant for fa
 The loading point supports the basegame `SLURRYTANK` fill type category, so compatible slurry-category fill types from maps or other mods can be handled through the same placeable.
 
 ## Reporting Issues
+
+Found a bug or compatibility issue? Please open a GitHub issue:
+
+https://github.com/CrankyAnt/FS25_SlurryExtensionLoadingPoint/issues/new/choose
 
 Please open an issue and include:
 
