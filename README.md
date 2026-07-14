@@ -6,7 +6,9 @@ This repository is intentionally documentation-only. It is used for bug reports,
 
 ## Download
 
-The official download is available through GIANTS ModHub once published.
+The official download is available through GIANTS ModHub:
+
+<https://www.farming-simulator.com/mod.php?mod_id=366439&title=fs2025>
 
 ## What This Mod Does
 
@@ -33,7 +35,7 @@ Daily upkeep: $0
 
 Found a bug or compatibility issue? Please open a GitHub issue:
 
-https://github.com/CrankyAnt/FS25_SlurryExtensionLoadingPoint/issues/new/choose
+<https://github.com/CrankyAnt/FS25_SlurryExtensionLoadingPoint/issues/new/choose>
 
 Please open an issue and include:
 
@@ -53,6 +55,3 @@ No GIANTS Software basegame assets or generated mod package files are distribute
 ### Version 1.0.0.0
 
 - Initial ModHub submission.
-- Added a slurry extension loading point placeable.
-- Supports slurry tank category fill types such as liquid manure and digestate.
-- Includes a visible pipe discharge effect while filling.
