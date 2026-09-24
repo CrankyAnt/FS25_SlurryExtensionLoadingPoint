@@ -2,34 +2,26 @@
 
 Support and issue tracker for the Farming Simulator 25 mod **Slurry Extension Loading Point** by CrankyAnt.
 
-This repository is intentionally documentation-only. It is used for bug reports, compatibility notes, and release notes. The mod package and game assets are not hosted here.
+This repository is intentionally documentation-only. It hosts support information, compatibility notes, and issue intake. The mod package and game assets are not hosted here. No GIANTS Software basegame assets or generated mod package files are distributed in this repository.
 
-## Download
+## Official Product Or Download
 
 The official download is available through GIANTS ModHub:
 
 <https://www.farming-simulator.com/mod.php?mod_id=366439&title=fs2025>
 
-## What This Mod Does
+## What This Repository Covers
 
-Adds a placeable loading point for slurry extension storages.
+This repository covers bug reports and compatibility notes for the mod, which adds a placeable loading point for slurry extension storages: a pickup point for vehicles and AI helpers without extra storage capacity.
 
-It is meant for farms where liquid manure, digestate, or other slurry tank fill types are already stored in nearby extensions,
-but no separate loading point is available for vehicles or AI helpers.
-Place it near your slurry storage and use it as a simple pickup point without adding extra storage capacity.
+It does not distribute downloads, source code, or game assets, and it does not handle ModHub reviews or account issues. For the official download, use the ModHub link above.
 
-The loading point supports the slurry tank fill type category,
-so compatible fill types added by maps or other mods can be handled through the same placeable.
+## Compatibility And Supported Versions
 
-Category: Silos
-Price: $1,500
-Daily upkeep: $0
-
-## Compatibility
-
-- Farming Simulator 25
-- Multiplayer supported
-- PC, Mac, PlayStation, and Xbox supported
+- Farming Simulator 25.
+- Multiplayer supported.
+- PC, Mac, PlayStation, and Xbox — matching the platform options in the issue form.
+- No specific game version is pinned here; include your game version from the menu when reporting an issue.
 
 ## Reporting Issues
 
@@ -46,12 +38,4 @@ Please open an issue and include:
 - A short description of what happened and what you expected
 - The game log, if the issue involves errors or missing functionality
 
-## Notes
-
-No GIANTS Software basegame assets or generated mod package files are distributed in this repository. This repository is only for support and documentation.
-
-## Changelog
-
-### Version 1.0.0.0
-
-- Initial ModHub submission.
+## [Changelog](CHANGELOG.md)
