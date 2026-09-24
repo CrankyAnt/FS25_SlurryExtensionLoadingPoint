@@ -14,14 +14,13 @@ The official download is available through GIANTS ModHub:
 
 This repository covers bug reports and compatibility notes for the mod, which adds a placeable loading point for slurry extension storages: a pickup point for vehicles and AI helpers without extra storage capacity.
 
-It does not distribute downloads, source code, or game assets, and it does not handle ModHub reviews or account issues. For the official download, use the ModHub link above.
+It does not distribute downloads, source code, or game assets.
 
 ## Compatibility And Supported Versions
 
-- Farming Simulator 25.
+- Farming Simulator 25
 - Multiplayer supported.
-- PC, Mac, PlayStation, and Xbox — matching the platform options in the issue form.
-- No specific game version is pinned here; include your game version from the menu when reporting an issue.
+- PC, Mac, PlayStation, and Xbox.
 
 ## Reporting Issues
 
@@ -29,9 +28,9 @@ Found a bug or compatibility issue? Please open a GitHub issue:
 
 <https://github.com/CrankyAnt/FS25_SlurryExtensionLoadingPoint/issues/new/choose>
 
-Please open an issue and include:
+Please include:
 
-- Farming Simulator 25 game version
+- Farming Simulator 25 game version (as shown in the menu)
 - Platform: PC, Mac, PlayStation, or Xbox
 - Map name
 - Other relevant mods active in the savegame
