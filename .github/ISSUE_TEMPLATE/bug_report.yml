@@ -1,7 +1,7 @@
 name: Bug report
 description: Report a problem with Slurry Extension Loading Point
 title: "[Bug]: "
-labels: [bug]
+labels: [type:bug]
 body:
   - type: input
     id: game-version

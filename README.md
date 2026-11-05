@@ -36,5 +36,3 @@ Please include:
 - Other relevant mods active in the savegame
 - A short description of what happened and what you expected
 - The game log, if the issue involves errors or missing functionality
-
-## [Changelog](CHANGELOG.md)

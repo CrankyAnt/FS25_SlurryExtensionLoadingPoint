@@ -11,3 +11,5 @@
 *.cache
 *.log
 *.xml
+
+.docs/
